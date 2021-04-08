@@ -1,0 +1,16 @@
+Searching 3 files for "#eeeaf4"
+
+C:\Users\user\Desktop\Gine Finance 1\Gine Finance 1\node_modules\@pancakeswap-libs\uikit\dist\index.esm.js:
+ 2746      binance: "#F0B90B",
+ 2747  };
+ 2748: var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA.", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5.", text: "#e88624", textDisabled: "#e88624", textSubtle: "#e88624", borderColor: "#e88624", card: "#051361.", gradients: {
+ 2749          bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
+ 2750      } });
+ ....
+ 2877  var light$5 = {
+ 2878      background: lightColors.card,
+ 2879:     hover: "#EEEAF4",
+ 2880  };
+ 2881  var dark$5 = {
+
+2 matches in 1 file
